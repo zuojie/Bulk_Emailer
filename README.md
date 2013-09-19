@@ -11,4 +11,4 @@ Bulk Emailer的功能如下:
 * 亮点是：除了输入关键词和编写邮件内容外，其他过程完全不需要人工干预
 
 ____
-![Bulk Emailer Demo](http://zuojie.github.io/demo/bulk_emailer.png "BED")
+![Bulk Emailer Demo](http://zuojie.github.io/demo/bulk_emailer.png "Bulk Emailer Demo")
