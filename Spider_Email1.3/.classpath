@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/tur/Java/JAVA外部jar包/javamail-1.4.3/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="E:/tur/Java/JAVA外部jar包/javamail-1.4.3/lib/imap.jar"/>
+	<classpathentry kind="lib" path="E:/tur/Java/JAVA外部jar包/javamail-1.4.3/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="E:/tur/Java/JAVA外部jar包/javamail-1.4.3/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="E:/tur/Java/JAVA外部jar包/javamail-1.4.3/lib/smtp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
